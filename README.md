@@ -1,4 +1,5 @@
-[![MasterHead](https://cdn.dribbble.com/userupload/13172251/file/original-310bcdfb6d5532e561b5f3f3a709d09a.png?resize=300x)](https://karthik-shinde.web.app)
+[![MasterHead](![image](https://github.com/codewithshinde/codewithshinde/assets/47146745/3dfc7ce1-d4cf-47ce-9485-b561543d92d2)
+)](https://karthik-shinde.web.app)
 <h1 align="center">Hi 👋, I'm Karthik Shinde</h1>
 <h3 align="center">A passionate full-stack developer from USA</h3>
 
