@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeekflare.com%2Ffull-stack-developer%2F&psig=AOvVaw37ukhl-iNvAhMo0BpK5imB&ust=1710881906632000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDN9vPZ_oQDFQAAAAAdAAAAABBZ)](https://karthik-shinde.web.app)
+[![MasterHead](https://cdn.dribbble.com/userupload/13172251/file/original-310bcdfb6d5532e561b5f3f3a709d09a.png?resize=752x)](https://karthik-shinde.web.app)
 <h1 align="center">Hi 👋, I'm Karthik Shinde</h1>
 <h3 align="center">A passionate full-stack developer from USA</h3>
 
