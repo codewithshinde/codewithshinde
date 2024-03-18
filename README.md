@@ -1,5 +1,4 @@
-[![MasterHead](![image](https://github.com/codewithshinde/codewithshinde/assets/47146745/3dfc7ce1-d4cf-47ce-9485-b561543d92d2)
-)](https://karthik-shinde.web.app)
+[![MasterHead](https://github.com/codewithshinde/codewithshinde/assets/47146745/3dfc7ce1-d4cf-47ce-9485-b561543d92d2)](https://karthik-shinde.web.app)
 <h1 align="center">Hi 👋, I'm Karthik Shinde</h1>
 <h3 align="center">A passionate full-stack developer from USA</h3>
 
